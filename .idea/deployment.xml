@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ambrusweb11.hu" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ambrusweb11.hu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/uikit-blog" local="$PROJECT_DIR$" web="/uikit-blog/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
